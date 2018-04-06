@@ -8,8 +8,7 @@
     <license>Apache 2.0</license>
     <keywords>applink,analytics,performance,marketing,engagement</keywords>
 
-    <!-- android -->
-    <platform name="android">
+
     <js-module src="www/applinkio.js" name="AppLinkIO">
         <clobbers target="AppLinkIO" />
     </js-module>
