@@ -12,5 +12,5 @@ TBD
 ## Installation
 
 ```
-cordova plugin add applinkio-cordova
+cordova plugin add https://github.com/phuonglam1510/applinkio-cordova
 ```
